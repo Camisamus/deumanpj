@@ -1,0 +1,6 @@
+projectKey=Camisamus_deumanpj
+serverUrl=http://13.85.194.23
+serverVersion=8.6.0.39681
+dashboardUrl=http://13.85.194.23/dashboard?id=Camisamus_deumanpj
+ceTaskId=AXZr4SARSMzj7DtOsVYy
+ceTaskUrl=http://13.85.194.23/api/ce/task?id=AXZr4SARSMzj7DtOsVYy

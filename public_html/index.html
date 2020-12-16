@@ -5,7 +5,7 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <html>
-    <head >
+    <head  xml:lang="es">
     <style> 
         body { background: url('fondo.jpg') fixed no-repeat ;background-size: 100% ; color: #f2f2f2; align-content: left; width: 100%; font: arial } 
         #lightBoxBg{
@@ -33,6 +33,11 @@ and open the template in the editor.
 
             lbBg.style.display = "block";
             lb.style.display = "block";
+            if(1=="1"){
+            var lb = document.getElementById("lightBox");
+            }else{
+            var lb = document.getElementById("lightBox");
+            }
         }
 
         function dismiss(){
